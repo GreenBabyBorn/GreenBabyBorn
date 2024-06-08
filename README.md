@@ -1,7 +1,6 @@
 ### Hello dear 👋
 A Frontend Developer by day ☼ and Backend by night ☾
 
-- 🔭 I’m currently working on [codecheck](https://github.com/iswebdevru/codecheck)
 - 👨‍💻 Founder of [iswebdev](https://iswebdev.ru)
 
 ### Skills
